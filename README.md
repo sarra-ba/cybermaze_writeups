@@ -1,1 +1,0 @@
-# cybermaze_writeups
